@@ -1,1 +1,2 @@
 # Coffee-Shop-Hero-Page
+A visually appealing and responsive hero section for a coffee shop website. It features a warm, inviting design with a high-quality background image of freshly brewed coffee. The layout includes a catchy headline, a short welcome message, and a clear call-to-action button for ordering or viewing the menu. Smooth animations enhance user engagement, creating a delightful browsing experience.
